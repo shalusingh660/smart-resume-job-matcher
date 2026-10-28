@@ -1,0 +1,5 @@
+__pycache__/
+.venv/ # if virtual environment is used
+venv/
+.streamlit/
+.DS_Store
